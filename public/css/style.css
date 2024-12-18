@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(45deg, yellow, green, lightblue);
+    height: 100vh; /* Tinggi penuh sesuai viewport */
+    margin: 0; /* Hapus margin default */
+}
